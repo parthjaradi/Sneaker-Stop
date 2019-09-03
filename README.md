@@ -1,5 +1,5 @@
 # Sneaker-Stop
-Angular website built with HTML, CSS along with GSAP animation.
+Angular website built with HTML, CSS along with GSAP animation without the use of Bootstrap.
 <br/>
 Sneaker-Stop is a the one place stop for all sneakerheads.
 It provides all the latest updates in the fashion world and <br/>
